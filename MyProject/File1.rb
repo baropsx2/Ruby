@@ -10,4 +10,11 @@ class A
         #puts "Value of c -    " + c
         puts c
     end
+
+    def multiply_numbers
+        a=10
+        b=20
+        c=a*b
+        print 
+       end
 end
